@@ -8,7 +8,7 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/alberry/image/upload/v1554319948/albert.jpg" alt="Albert Oboh">
+                        <img src="https://res.cloudinary.com/alberry/image/upload/v1554330317/albert_2.jpg" alt="Albert Oboh">
                         <h6>Albert Oboh</h6>
                         <p>Fullstack Engineer</p>
                         <ul class="list">
